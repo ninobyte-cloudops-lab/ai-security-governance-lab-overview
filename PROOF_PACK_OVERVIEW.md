@@ -28,6 +28,18 @@ A concise, decision-ready summary that translates technical findings into busine
 - **Decision-ready.** Findings are written so a reviewer or executive can act.
 - **Portfolio-safe.** Every artifact is suitable to share publicly once sanitized and reviewed.
 
+## How learners can talk about it
+
+A proof pack is not a job guarantee or a certification claim. It is a structured way for a learner to explain what they practiced:
+
+- the scope of the synthetic AWS AI workload;
+- the evidence they reviewed;
+- the risks they identified;
+- the remediation or governance decision they recommended;
+- the limits of the exercise and what would need validation in a real environment.
+
+That honesty matters. A credible portfolio artifact should make the work reviewable without pretending the lab was a production engagement.
+
 ## What this overview is not
 
 It does not include the internal templates, scoring rubrics, model answers, or full ticket content. Those remain private.

@@ -4,6 +4,8 @@
 
 The AI Security & Governance Lab — AWS Edition is a six-week, AWS-native, ticket-driven job simulation for cloud security, GRC, audit, and AI governance professionals. Instead of passive lessons, learners work realistic tickets against a governed AWS AI workload, gather evidence, analyze findings, recommend remediation, and produce portfolio-ready proof-pack artifacts. The emphasis is defensive and evidence-based throughout.
 
+It is for people and teams being asked to review AI workloads in AWS and explain the risk clearly — not generic AI policy theory, not offensive hacking, and not another passive certificate path.
+
 > This repository is a **public overview only**. The full product, curriculum, and governance materials live in a private repository.
 
 ---
@@ -15,6 +17,8 @@ The AI Security & Governance Lab — AWS Edition is a six-week, AWS-native, tick
 - IT auditors
 - Security managers
 - AI governance professionals
+
+This lab assumes enough AWS familiarity to read basic service evidence, but it is designed to help security, audit, and governance professionals connect that evidence to decisions.
 
 ---
 
@@ -71,6 +75,21 @@ This lab is **defensive-only**: protection, detection, audit, and governance. It
 
 ---
 
+## For teams and reviewers
+
+The strongest use case is practical readiness for teams that need to govern AWS AI workloads without turning training into an offensive lab. A cohort can help learners practice:
+
+- translating AWS evidence into audit-ready findings;
+- explaining AI workload risk to technical and executive stakeholders;
+- recognizing where IAM, data exposure, logging, and guardrails change the risk picture;
+- producing sanitized artifacts that show judgment, not just course completion.
+
+Public cohort dates, pricing, and team-training packages are not published in this overview. For partnership, review, or future cohort conversations, reach Ninobyte through its official channels.
+
+See [`TEAM_TRAINING_OVERVIEW.md`](TEAM_TRAINING_OVERVIEW.md) for a public, buyer-safe overview.
+
+---
+
 ## 🔒 What is private
 
 Kept private by design in the product repository:
@@ -101,4 +120,4 @@ Docs-first product foundation complete; AWS execution remains gated behind cost 
 
 ## Next step
 
-Explore the [Ninobyte CloudOps Lab organization](https://github.com/ninobyte-cloudops-lab) for the full picture, including the [AI-Native CloudOps Lab](https://github.com/ninobyte-cloudops-lab/cloudops-lab-overview). For partnership, cohort, or review conversations, reach Ninobyte through its official channels.
+Explore the [Ninobyte CloudOps Lab organization](https://github.com/ninobyte-cloudops-lab) for the full picture, including the [AI-Native CloudOps Lab](https://github.com/ninobyte-cloudops-lab/cloudops-lab-overview). For partnership, cohort, team-training, or review conversations, reach Ninobyte through its official channels.
