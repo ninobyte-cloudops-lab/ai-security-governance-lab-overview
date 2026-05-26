@@ -1,8 +1,10 @@
 # 🛡️ Ninobyte AI Security & Governance Lab — AWS Edition
 
-**Secure, audit, investigate, and govern AWS AI workloads using evidence-based job simulation.**
+**Defensive AI security practice. Audit, investigate, and govern AWS AI workloads with governance workflows, proof packs, and safe review.**
 
-The AI Security & Governance Lab — AWS Edition is a six-week, AWS-native, ticket-driven job simulation for cloud security, GRC, audit, and AI governance professionals. Instead of passive lessons, learners work realistic tickets against a governed AWS AI workload, gather evidence, analyze findings, recommend remediation, and produce portfolio-ready proof-pack artifacts. The emphasis is defensive and evidence-based throughout.
+> Part of the Ninobyte Connected AI Operator practice — *Connect. Govern. Execute. Prove.*
+
+The AI Security & Governance Lab — AWS Edition is an AWS-native, ticket-driven practice for cloud security, GRC, audit, and AI governance professionals. Instead of passive lessons, learners work realistic tickets against a governed AWS AI workload, gather evidence, analyze findings, recommend remediation, and produce portfolio-ready proof-pack artifacts. The emphasis is defensive and evidence-based throughout.
 
 It is for people and teams being asked to review AI workloads in AWS and explain the risk clearly — not generic AI policy theory, not offensive hacking, and not another passive certificate path.
 
